@@ -1,2 +1,2 @@
-# computational-photography-cuda
-General computational photography routines in CUDA.
+# Computational Photography in CUDA
+General computational photography routines in CUDA for GPU execution.
